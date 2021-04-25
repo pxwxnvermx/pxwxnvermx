@@ -1,9 +1,14 @@
-# Hello There..
+Hi there 👋
 
-I am Pawan Verma, a Computer Science student and software developer from India. I like to solve problems.
+[https://i.imgur.com/F61PxRB.mp4](https://i.imgur.com/F61PxRB.mp4)
+
+## Bio
+
+- I am currently pursuing B.Sc Computer Science from Ramanujan College.
+- I am currently learning all about Cloud Native.
+- Website @ [pawanverma.tech](http://pawanverma.tech)
+- Reach me [@pxwxnvermx](https://twitter.com/pxwxnvermx)
 
 ---
-[<img src="./Resources/images/code.png" width="64px" height="64px" style="padding: 10px" />](https://pawanverma.tech)
-[<img src="./Resources/images/email.png" width="64px" height="64px" style="padding: 10px" />](mailto:pawanjbs5@gmail.com)
-[<img src="./Resources/images/twitter.png" width="64px" height="64px" style="padding: 10px" />](https://twitter.com/pxwxnvermx)
-[<img src="./Resources/images/linkedin.png" width="64px" height="64px" style="padding: 10px" />](https://linkedin.com/in/pawanverma1812)
+
+![https://i.imgur.com/cmqC2Kz.jpeg](https://i.imgur.com/cmqC2Kz.jpeg)
