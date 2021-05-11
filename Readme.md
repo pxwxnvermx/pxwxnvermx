@@ -8,7 +8,7 @@
 
 - I am currently pursuing [B.Sc](http://b.sc/) Computer Science from Ramanujan College.
 - I am currently learning all about Cloud Native.
-- Website :- [pawanverma.tech](http://pawanverma.tech/)
+- Website :- [pxwxnvermx.github.io](http://pxwxnvermx.github.io/)
 - Reach me [@pxwxnvermx](https://twitter.com/pxwxnvermx) | [pawanjbs5@gmail.com](mailto:pawanjbs5@gmail.com)
 
 ### Social 
