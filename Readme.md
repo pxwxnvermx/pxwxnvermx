@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![https://i.imgur.com/G3ANPOL.png](https://i.imgur.com/G3ANPOL.png)
+![https://i.imgur.com/oGDLloZ.png](https://i.imgur.com/oGDLloZ.png)
 
 ---
 
