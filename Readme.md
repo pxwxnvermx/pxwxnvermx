@@ -6,7 +6,7 @@
 
 ## Bio
 
-- I am currently pursuing [B.Sc](http://b.sc/) Computer Science from Ramanujan College.
+- Product Development Intern [@Cuvette.tech](https://www.cuvette.tech)
 - I am currently learning all about Cloud Native.
 - Website :- [pxwxnvermx.in](http://pxwxnvermx.in/)
 - Reach me [@pxwxnvermx](https://twitter.com/pxwxnvermx) | [pawanjbs5@gmail.com](mailto:pawanjbs5@gmail.com)
