@@ -11,6 +11,7 @@
 - Website :- [pxwxnvermx.in](http://pxwxnvermx.in/)
 - Reach me [@pxwxnvermx](https://twitter.com/pxwxnvermx) | [pawanjbs5@gmail.com](mailto:pawanjbs5@gmail.com)
 
+<center>
 ### Social 
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pxwxnvermx) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.in/in/pawanverma1812) [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pxwxnvermx) [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/pawanverma1337)
 
@@ -26,7 +27,8 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br />
 ![](https://img.shields.io/badge/VIM-00457C?style=for-the-badge&logo=vim&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)  ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+</center>
+  
 ---
 
 ![https://i.imgur.com/cmqC2Kz.jpeg](https://i.imgur.com/cmqC2Kz.jpeg)
